@@ -151,4 +151,5 @@
          Console.WriteLine($"Read/Write Ratio: {readAccesses / (double)writeAccesses}");
          Console.WriteLine($"Total Number of Memory References: {readAccesses + writeAccesses}");
      }
+  }
 }
